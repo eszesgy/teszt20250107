@@ -1,3 +1,3 @@
 <?php
-echo("Ez egy példa");
+echo("Ez egy példa!");
 ?>

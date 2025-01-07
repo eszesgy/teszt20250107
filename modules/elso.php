@@ -1,1 +1,3 @@
-
+<?php
+print("Teszt bejegyzés!");
+?>
